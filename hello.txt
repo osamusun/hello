@@ -1,1 +1,3 @@
-hello git!
+
+||mercury.bbspink.com^$dnsrewrite=104.19.132.105
+||phoebe.bbspink.com^$dnsrewrite=104.19.132.105
